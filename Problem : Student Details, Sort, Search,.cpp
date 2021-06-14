@@ -1,11 +1,11 @@
-Implement the following functions to access the details of a particular student from a list of n students. Use three functions as follows.
+/*Implement the following functions to access the details of a particular student from a list of n students. Use three functions as follows.
 a. Get the details of n students.
 i. Roll number
 ii. Name
 iii. Programme
 iv. CGPA
 b. Sort the list based on their roll number
-c. Search for a particular student’s details. (Use minimum number of comparison)
+c. Search for a particular student’s details. (Use minimum number of comparison)*/
 
 
 #include <stdio.h>
