@@ -1,7 +1,7 @@
-Construct a Binary Search Tree and perform the following operations on it
+/*Construct a Binary Search Tree and perform the following operations on it
 a. Insert and element to the BST
 b. Delete the element from BST
-c. Search for an element in BST
+c. Search for an element in BST*/
 
 
 #include <stdio.h>
