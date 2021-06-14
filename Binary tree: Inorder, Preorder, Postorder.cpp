@@ -1,7 +1,7 @@
-Create a binary tree and perform different traversal on it.
+/*Create a binary tree and perform different traversal on it.
 a. In-order
 b. Pre-order
-c. Post-order
+c. Post-order*/
 
 
 #include <stdio.h>
