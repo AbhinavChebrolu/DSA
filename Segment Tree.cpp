@@ -1,11 +1,11 @@
-Segment Tree
+/*Segment Tree
 A segment tree is a data structure used to store information about array segments and answer segment queries efficiently. 
 There are 2 main operations performed
 1. range(i, j)
 2. gives the sum of the array elements starting at index i and ending at index j. update(i, Val)
 The root of T will represent the whole array A[0:N-1]
 Each leaf in the Segment Tree T will represent a single element A[i] such that 0≤i<N
-The internal nodes in the Segment Tree T represents the union of elementary intervals A[i:j] where 0≤i<j<N
+The internal nodes in the Segment Tree T represents the union of elementary intervals A[i:j] where 0≤i<j<N  */
 
 
 void build(int node, int start, int end)
